@@ -2,7 +2,7 @@
 """
 Author : Raine Ikagawa <rikagawa@arizona.edu>
 Date   : 2023-01-26
-Purpose: Print greeting
+Purpose: Print greeting.
 """
 
 import argparse
