@@ -7,8 +7,6 @@ Purpose: Rock the Casbah
 
 import argparse
 import sys
-from typing import TYPE_CHECKING
-
 
 # --------------------------------------------------
 def get_args():
